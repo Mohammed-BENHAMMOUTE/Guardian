@@ -27,3 +27,25 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Default ignored files
+/shelf/
+/workspace.xml
+# Compiled class files
+**/*.class
+
+# Log files
+**/*.log
+
+# Local configuration files
+**/config.properties
+
+# Maven build directory
+target/
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+
+# Mac-specific files
+.DS_Store
